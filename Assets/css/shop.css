@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(11, 116, 228);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.shop {
+    margin-left: -13px;
+    height: 100%;
+    width: 50%;
+    background-color: rgb(239, 247, 247);
+}
+
+.empty {
+    margin-left: -13px;
+    height: 10px;
+    width: 50%;
+    background-color: black; 
+}
+.A {
+    margin-right: 150px;
+    }
+
+.B {
+    margin: 37px;
+    }
+
+
+button {
+    margin-left: -145px;
+        }
+
+.C {
+    margin-right: 145px;
+    }
+input {width: 35px;
+    margin-left: -145px;
+}
